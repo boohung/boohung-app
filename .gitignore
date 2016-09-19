@@ -6,8 +6,8 @@ node_modules
 # testing
 coverage
 
-# production
-build
+# Manage build directory with git submodule
+# build
 
 # misc
 .DS_Store
